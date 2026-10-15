@@ -1,0 +1,91 @@
+{
+  "scope": "local homepage",
+  "build": "passed",
+  "static_chapters": 10,
+  "demo_unit_tests_passed": 5,
+  "hosting_tests_passed": 4,
+  "browser_viewports": [
+    "1440x900",
+    "1024x768",
+    "390x844",
+    "775x804"
+  ],
+  "production_console_errors": 0,
+  "horizontal_overflow_observed": false,
+  "demo_full_path": "passed",
+  "form_delivery": "local preview only",
+  "motion_reverse": "workflow returned from draft to review while pinned",
+  "status": "passed",
+  "motion_revision": {
+    "page_handoffs": 9,
+    "large_viewport_gate": false,
+    "desktop_midpoint": {
+      "scrollY": 450,
+      "outgoing_top": 0,
+      "incoming_top": 450,
+      "outgoing_scale": 0.965
+    },
+    "reverse_verified": true,
+    "reduced_motion_pins": 0
+  },
+  "chapter_settling": {
+    "reading_interval": "40svh",
+    "desktop_1440x900": {
+      "scroll_y": 1440,
+      "evidence_top": 0,
+      "next_chapter_top": 1081
+    },
+    "reverse_scroll_verified": true,
+    "reduced_motion": {
+      "pins": 0,
+      "all_chapter_margins": "0px"
+    },
+    "header_month": "October 2026"
+  },
+  "distinct_chapter_motion": {
+    "entrances": 9,
+    "offers_scroll_forward": [
+      "01",
+      "03",
+      "05"
+    ],
+    "offers_scroll_reverse": [
+      "05",
+      "03"
+    ],
+    "mobile_390x844": {
+      "overflow": false,
+      "module_04_panel_bottom": 833.23
+    },
+    "reduced_motion": {
+      "pins": 0,
+      "clips": "none",
+      "margins": "0px"
+    }
+  },
+  "complete_site": {
+    "routes": 27,
+    "additional_routes": 26,
+    "prerendered": true,
+    "demo_tests": 5,
+    "route_tests": 4,
+    "hosting_tests": 4,
+    "mobile_routes_checked": 26,
+    "viewport": [
+      390,
+      844
+    ],
+    "desktop": [
+      1440,
+      900
+    ],
+    "overflow_fixes_verified": [
+      "/demo",
+      "/accessibility"
+    ],
+    "intake_module_03_retained": true,
+    "forms_transmit": false,
+    "navigation_escape_focus_return": true,
+    "reduced_motion_pins": 0
+  }
+}

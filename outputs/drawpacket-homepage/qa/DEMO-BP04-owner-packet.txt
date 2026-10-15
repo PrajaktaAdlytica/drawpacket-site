@@ -1,0 +1,23 @@
+DRAWPACKET — DEMO / SYNTHETIC DATA
+CONCEPT PREVIEW — NOT A PAYMENT INSTRUCTION
+Packet OP-BP04-2026-09-v1
+Bridgepine Builders / BP-04 / Stoneway Mechanical / PA-07-v2
+Requested original gross: $84,000. Revised supported gross: $78,000.
+Work $65,000 + materials $5,000 + CO-03 $8,000.
+Synthetic assumption: 10% retainage = $7,800. Illustrative net $70,200.
+No tax, other deductions, or advances included; prior net certificates assumed paid.
+GC approval: Owen Hale, 07 Oct 2026 10:00, simulated.
+Waiver: W-07-L2-v1, signed form placeholder; completeness only.
+COI: COI-07-v2, synthetic expiry 08 Oct 2027.
+No signing, sending, payment release, or external writes.
+05 Oct 09:05 · Compared current gross: $84,000 requested; $78,000 supported.
+05 Oct 09:08 · Lower-tier waiver missing; COI expires before intended review.
+05 Oct 09:10 · Suggestion to clear $6,000 without an approved source rejected.
+05 Oct 09:12 · Revised gross $78,000 proposed. Original remains on record.
+05 Oct 09:15 · Mara Ellis accepted PA-07-v2, revised gross $78,000. Other holds remain.
+06 Oct 10:00 · W-07-L2-v1 loaded; signed synthetic form placeholder, awaiting review.
+06 Oct 10:10 · Mara Ellis accepted waiver completeness only; no payment inferred.
+06 Oct 11:00 · COI-07-v2 loaded; illustrative expiry 08 Oct 2027.
+06 Oct 11:10 · Mara Ellis accepted renewal evidence; no coverage determination.
+06 Oct 14:20 · OP-BP04-2026-09-v1 drafted. Named GC approval pending.
+07 Oct 10:00 · Owen Hale recorded simulated GC approval. No funds moved.

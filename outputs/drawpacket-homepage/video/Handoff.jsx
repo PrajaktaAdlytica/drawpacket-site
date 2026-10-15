@@ -1,0 +1,4 @@
+import React from 'react';
+import {Img,staticFile} from 'remotion';
+import {Surface,C,type,mono,move,useScene} from './shared';
+export function Handoff(){const {f,fps,mobile}=useScene();return <Surface style={{background:C.chalk,color:C.ox}}><div style={{position:'absolute',left:'9%',top:'13%'}}><Img src={staticFile('brand/logos/drawpacket-horizontal-primary.svg')} style={{width:mobile?400:400}}/></div><div style={{position:'absolute',left:'9%',top:mobile?'32%':'31%',...type,fontSize:mobile?220:250}}>Bring the month<br/>into focus.</div><div style={{position:'absolute',left:'9%',bottom:'13%',...mono,fontSize:mobile?24:25,letterSpacing:2}}>ONE PROJECT. ONE MONTHLY CYCLE.</div><div style={{position:'absolute',left:0,top:0,bottom:0,width:'50%',background:C.ox,translate:`${move(f,0,.7*fps,0,-102)}% 0`}}/><div style={{position:'absolute',right:0,top:0,bottom:0,width:'50%',background:C.ox,translate:`${move(f,0,.7*fps,0,102)}% 0`}}/></Surface>}

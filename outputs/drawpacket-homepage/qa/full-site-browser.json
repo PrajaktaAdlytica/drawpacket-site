@@ -1,0 +1,365 @@
+{
+  "desktop": [
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/why-draws-return",
+      "title": "Why draws return \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings",
+      "title": "Five proposed modules \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/pay-app-check",
+      "title": "Pay App Check \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/change-evidence",
+      "title": "Change Evidence \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/waiver-tracking",
+      "title": "Waiver Tracking \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/compliance-holds",
+      "title": "Compliance Holds \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/owner-packet",
+      "title": "Owner Packet \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/how-it-works",
+      "title": "How it works \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/use-cases",
+      "title": "Use cases \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": true,
+      "path": "/demo",
+      "title": "Synthetic workspace \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/pilot",
+      "title": "Pilot & test pricing \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/request-pilot",
+      "title": "Discuss a pilot \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/request-demo",
+      "title": "Guided conversation \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/controls",
+      "title": "Controls & limits \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/workflow-fit",
+      "title": "Fit with your workflow \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/validation",
+      "title": "Validation plan \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources",
+      "title": "Reference shelf \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/conditional-and-unconditional",
+      "title": "Waiver reading guide \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/draw-evidence-checklist",
+      "title": "Draw evidence checklist \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/about",
+      "title": "About DrawPacket \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact",
+      "title": "Contact & access help \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/sign-in",
+      "title": "Demo access \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/privacy",
+      "title": "Preview privacy notice \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/terms",
+      "title": "Terms of preview \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": true,
+      "path": "/accessibility",
+      "title": "Accessibility \u2014 DrawPacket"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/missing-page",
+      "title": "Page not found \u2014 DrawPacket"
+    }
+  ],
+  "mobile": [
+    {
+      "heading": "Five ways in.\nOne draw at a time.",
+      "overflow": false,
+      "path": "/offerings",
+      "width": 390
+    },
+    {
+      "heading": "One record.\nYour next decision.",
+      "overflow": false,
+      "path": "/demo",
+      "width": 390
+    },
+    {
+      "heading": "One cycle.\nA clear test.",
+      "overflow": false,
+      "path": "/pilot",
+      "width": 390
+    },
+    {
+      "heading": "Start with\nyour next draw.",
+      "overflow": false,
+      "path": "/request-pilot",
+      "width": 390
+    },
+    {
+      "heading": "Walk the record.\nAsk the hard questions.",
+      "overflow": false,
+      "path": "/request-demo",
+      "width": 390
+    },
+    {
+      "heading": "A clear boundary\nis part of the product.",
+      "overflow": false,
+      "path": "/controls",
+      "width": 390
+    },
+    {
+      "heading": "Keep your system.\nInspect the handoff.",
+      "overflow": false,
+      "path": "/workflow-fit",
+      "width": 390
+    },
+    {
+      "heading": "A better demo\nis not proof.",
+      "overflow": false,
+      "path": "/validation",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/why-draws-return",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/pay-app-check",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/change-evidence",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/waiver-tracking",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/compliance-holds",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/offerings/owner-packet",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/how-it-works",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/use-cases",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/conditional-and-unconditional",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/draw-evidence-checklist",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/about",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/sign-in",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/privacy",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/terms",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/accessibility",
+      "width": 390
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/404",
+      "width": 390
+    }
+  ],
+  "correction": "Transient desktop hero overflow on demo/accessibility corrected with detail-site overflow-x:clip.",
+  "interactiveChecks": [
+    "module 03 retained in pilot intake",
+    "local form preview: nothing submitted",
+    "mobile navigation Escape and focus return",
+    "checklist 02/10",
+    "PA-06 rejection summary",
+    "PA-07 comparison",
+    "queue empty search and clear",
+    "reduced motion: zero pins, no masks, static posters"
+  ],
+  "final_overflow_recheck": [
+    {
+      "path": "/demo",
+      "overflow": false
+    },
+    {
+      "path": "/accessibility",
+      "overflow": false
+    }
+  ]
+}

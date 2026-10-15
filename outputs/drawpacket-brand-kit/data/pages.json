@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "home",
+    "route": "/",
+    "title": "Bring the month into focus.",
+    "copy": "One project. One monthly cycle. An evidence trail ready for review.",
+    "kind": "timeline",
+    "surface": "chalk",
+    "texture": "calendar-rules",
+    "labels": [
+      "05 Oct: request arrives",
+      "08 Oct: expiry flag",
+      "10 Oct: intended review"
+    ],
+    "motion": "Calendar columns register; the PA-07 ribbon enters; holds become named review tasks.",
+    "cta": "Explore synthetic demo",
+    "sections": "Hero calendar / chalk \u2192 missing-evidence lanes / lilac \u2192 variance equation / chalk \u2192 five offers / blush \u2192 reviewed steps / oxblood \u2192 pilot / chalk",
+    "number": 1,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/home-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "returns",
+    "route": "/why-draws-return",
+    "title": "Where the draw comes back.",
+    "copy": "Identify the missing evidence behind a returned pay application.",
+    "kind": "lanes",
+    "surface": "mist",
+    "texture": "offset-rails",
+    "labels": [
+      "Incomplete application",
+      "Unapproved change",
+      "Missing waiver"
+    ],
+    "motion": "Three source lanes enter out of sync, stop at a common review boundary, then reveal distinct reasons.",
+    "cta": "Inspect the example",
+    "sections": "Arrival lanes \u2192 reason taxonomy / ledger \u2192 source review / chalk",
+    "number": 2,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/returns-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "offers",
+    "route": "/offerings",
+    "title": "Five focused ways to review.",
+    "copy": "Choose one proposed module for a bounded pilot.",
+    "kind": "cards",
+    "surface": "chalk",
+    "texture": "index-marks",
+    "labels": [
+      "Pay App Check",
+      "Change Evidence",
+      "Waiver Tracking",
+      "Compliance Holds",
+      "Owner Packet"
+    ],
+    "motion": "Five numbered ribbons register one at a time; selection highlights the associated artifact.",
+    "cta": "Choose a module",
+    "sections": "Offer index / chalk \u2192 comparison / lilac \u2192 one-cycle scope / wine",
+    "number": 3,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/offers-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "pay-app",
+    "route": "/offerings/pay-app-check",
+    "title": "Give every line a second look.",
+    "copy": "SOV-to-pay-app completeness check. Proposed module.",
+    "kind": "variance",
+    "surface": "chalk",
+    "texture": "ledger-lines",
+    "labels": [
+      "Requested $84,000",
+      "Supported $78,000",
+      "Variance $6,000"
+    ],
+    "motion": "SOV and pay-app columns align; the unsupported remainder separates without changing the original request.",
+    "cta": "Explore Pay App Check",
+    "sections": "Ledger alignment \u2192 completeness exceptions / blush \u2192 source detail / chalk",
+    "number": 4,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/pay-app-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "changes",
+    "route": "/offerings/change-evidence",
+    "title": "Make the change traceable.",
+    "copy": "Change-order and stored-material evidence reconciliation. Proposed module.",
+    "kind": "sources",
+    "surface": "sand",
+    "texture": "source-grid",
+    "labels": [
+      "Current work $65,000",
+      "Stored materials $5,000",
+      "Approved CO $8,000"
+    ],
+    "motion": "Three source lines join the $78,000 supported amount; pending changes remain outside the total.",
+    "cta": "Explore Change Evidence",
+    "sections": "CO overlay \u2192 stored-material trace / chalk \u2192 reviewer decision / lilac",
+    "number": 5,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/changes-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "waivers",
+    "route": "/offerings/waiver-tracking",
+    "title": "Follow the waiver chain.",
+    "copy": "Tiered subcontractor waiver request and tracking. Proposed module.",
+    "kind": "network",
+    "surface": "lilac",
+    "texture": "registration-dots",
+    "labels": [
+      "Bridgepine \u00b7 GC",
+      "Stoneway \u00b7 Subcontractor",
+      "Cedar Supply \u00b7 Lower tier"
+    ],
+    "motion": "Edges connect named tiers, then the missing lower-tier waiver is highlighted; no automatic signing.",
+    "cta": "Explore Waiver Tracking",
+    "sections": "Tier tree \u2192 form distinction / chalk \u2192 draft request / blush",
+    "number": 6,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/waivers-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "compliance",
+    "route": "/offerings/compliance-holds",
+    "title": "See the date behind the hold.",
+    "copy": "Insurance and compliance expiry hold queue. Proposed module.",
+    "kind": "expiry",
+    "surface": "butter",
+    "texture": "calendar-rules",
+    "labels": [
+      "COI expires 08 Oct",
+      "Review intended 10 Oct",
+      "Named reviewer required"
+    ],
+    "motion": "Two date markers separate by two days; an expiry flag enters with a reason and owner.",
+    "cta": "Explore Compliance Holds",
+    "sections": "Expiry ribbon \u2192 rule reference / chalk \u2192 override / oxblood",
+    "number": 7,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/compliance-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "packet",
+    "route": "/offerings/owner-packet",
+    "title": "A packet someone can review.",
+    "copy": "Owner draw packet and payment-release evidence ledger. Proposed module.",
+    "kind": "packet",
+    "surface": "chalk",
+    "texture": "index-marks",
+    "labels": [
+      "Source versions",
+      "Resolved exceptions",
+      "GC approval pending"
+    ],
+    "motion": "Evidence leaves slide into an index, followed by a draft label and a pending approver slot.",
+    "cta": "Explore Owner Packet",
+    "sections": "Packet index \u2192 decision ledger / lilac \u2192 illustrative export / wine",
+    "number": 8,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/packet-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "workflow",
+    "route": "/how-it-works",
+    "title": "A clear rhythm for each draw.",
+    "copy": "Gather evidence. Review exceptions. Draft the packet.",
+    "kind": "process",
+    "surface": "oxblood",
+    "texture": "cadence-cuts",
+    "labels": [
+      "Gather",
+      "Review",
+      "Draft"
+    ],
+    "motion": "Three numbered steps advance once; review remains a human decision and never auto-approves.",
+    "cta": "Walk through PA-07",
+    "sections": "Numbered process \u2192 role lanes / chalk \u2192 evidence stack / lilac",
+    "number": 9,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/workflow-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "uses",
+    "route": "/use-cases",
+    "title": "Start with the job in front of you.",
+    "copy": "Monthly review, lower-tier follow-up or owner-packet preparation.",
+    "kind": "institution",
+    "surface": "sage",
+    "texture": "horizon",
+    "labels": [
+      "Project accountant",
+      "Subcontractor follow-up",
+      "Owner packet"
+    ],
+    "motion": "Institutional line pictograms draw, each revealing its relevant proposed module.",
+    "cta": "Find your use case",
+    "sections": "Role triptych \u2192 workflow tabs / chalk \u2192 pilot scope / sand",
+    "number": 10,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/uses-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "demo",
+    "route": "/demo",
+    "title": "One draw. Every open question.",
+    "copy": "Bridgepine BP-04 / Stoneway PA-07. Synthetic concept preview.",
+    "kind": "review",
+    "surface": "chalk",
+    "texture": "ledger-lines",
+    "labels": [
+      "Received",
+      "Evidence hold",
+      "GC approval pending"
+    ],
+    "motion": "The record opens, source drawer reveals and reviewer controls appear. Approval requires explicit interaction.",
+    "cta": "Open concept demo",
+    "sections": "Queue \u2192 evidence pane \u2192 reviewer branch \u2192 draft report",
+    "number": 11,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/demo-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "pilot",
+    "route": "/pilot",
+    "title": "Test one cycle, deliberately.",
+    "copy": "Hypothetical pricing: $2,000 diagnostic or $1,500\u2013$4,000 project/cycle pilot.",
+    "kind": "scope",
+    "surface": "sand",
+    "texture": "index-marks",
+    "labels": [
+      "One project",
+      "One selected module",
+      "One AP owner"
+    ],
+    "motion": "Scope boundaries register first, then price and explicit hypothesis disclosure appear together.",
+    "cta": "Discuss a one-cycle pilot",
+    "sections": "Scope rectangle \u2192 test-price choices / chalk \u2192 go/stop criteria / oxblood",
+    "number": 12,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/pilot-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "request-pilot",
+    "route": "/request-pilot",
+    "title": "Bring one project into view.",
+    "copy": "Discuss scope, approved templates and a named AP owner.",
+    "kind": "intake",
+    "surface": "blush",
+    "texture": "offset-rails",
+    "labels": [
+      "Select module",
+      "Define cycle",
+      "Identify owner"
+    ],
+    "motion": "Three preflight fields reveal sequentially; the actual form stays immediately available.",
+    "cta": "Request a pilot conversation",
+    "sections": "Scope summary \u2192 consented form / chalk \u2192 next-step note",
+    "number": 13,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/request-pilot-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "request-demo",
+    "route": "/request-demo",
+    "title": "Walk through a draw together.",
+    "copy": "Request a guided discussion of the synthetic example.",
+    "kind": "tour",
+    "surface": "lilac",
+    "texture": "horizon",
+    "labels": [
+      "Open the request",
+      "Inspect evidence",
+      "Discuss the pilot"
+    ],
+    "motion": "A guided path highlights each local example stop without playing a fake live product video.",
+    "cta": "Request a guided discussion",
+    "sections": "Walkthrough route \u2192 role/context form / chalk \u2192 expectation note",
+    "number": 14,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/request-demo-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "lilac-evidence.webp",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "controls",
+    "route": "/controls",
+    "title": "Every action has a boundary.",
+    "copy": "Proposed controls, named reviewers and visible limits.",
+    "kind": "boundary",
+    "surface": "wine",
+    "texture": "cadence-cuts",
+    "labels": [
+      "Evidence review",
+      "Human approval",
+      "No payment execution"
+    ],
+    "motion": "Two Cadence boundaries reveal the allowed review zone; external action stays outside and disabled.",
+    "cta": "Inspect the controls",
+    "sections": "Boundary scene \u2192 permissions table / chalk \u2192 data lifecycle / mist",
+    "number": 15,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/controls-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "oxblood-boundary.webp",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "fit",
+    "route": "/workflow-fit",
+    "title": "Fit the review to your process.",
+    "copy": "Explore permissioned exports and reviewed drafts alongside existing tools.",
+    "kind": "connections",
+    "surface": "mist",
+    "texture": "source-grid",
+    "labels": [
+      "System of record",
+      "Permissioned sample",
+      "Reviewed draft"
+    ],
+    "motion": "Three labeled ports connect, each carrying a proposed data flow. No live integration badges.",
+    "cta": "Discuss your workflow",
+    "sections": "Port diagram \u2192 current-tool questions / chalk \u2192 pilot boundary / lilac",
+    "number": 16,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/fit-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "validation",
+    "route": "/validation",
+    "title": "Let the reviewed evidence decide.",
+    "copy": "Measure returns, review effort, wrongful holds and response burden.",
+    "kind": "chart",
+    "surface": "chalk",
+    "texture": "ledger-lines",
+    "labels": [
+      "Avoidable returns: not measured",
+      "Review hours: not measured",
+      "Wrongful holds: not measured"
+    ],
+    "motion": "Empty measurement axes draw; synthetic sample amounts appear only in the example panel, never as ROI.",
+    "cta": "Read the pilot criteria",
+    "sections": "Empty scorecard \u2192 method / sage \u2192 go/stop / wine",
+    "number": 17,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/validation-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "resources",
+    "route": "/resources",
+    "title": "Useful context for the review.",
+    "copy": "Source-linked guides for the documents behind a draw.",
+    "kind": "library",
+    "surface": "lilac",
+    "texture": "index-marks",
+    "labels": [
+      "Pay applications",
+      "Waiver distinctions",
+      "Evidence checklist"
+    ],
+    "motion": "Indexed spines align and one readable source excerpt reveals.",
+    "cta": "Browse the guides",
+    "sections": "Library index \u2192 educational cards / chalk \u2192 source bibliography",
+    "number": 18,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/resources-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "lilac-evidence.webp",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "waiver-guide",
+    "route": "/resources/conditional-and-unconditional",
+    "title": "A signature is not payment evidence.",
+    "copy": "California is an educational example. State and contract requirements vary.",
+    "kind": "map",
+    "surface": "chalk",
+    "texture": "registration-dots",
+    "labels": [
+      "California example",
+      "Conditional / unconditional",
+      "Counsel-reviewed forms"
+    ],
+    "motion": "US state boundaries reveal, California highlights and a sourced context pane opens. Not a service footprint.",
+    "cta": "Read the distinction",
+    "sections": "Jurisdiction map \u2192 side-by-side forms / lilac \u2192 scope note / chalk",
+    "number": 19,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/waiver-guide-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "checklist",
+    "route": "/resources/draw-evidence-checklist",
+    "title": "Know what belongs in the packet.",
+    "copy": "A project-specific review checklist, not an approval certificate.",
+    "kind": "checklist",
+    "surface": "sage",
+    "texture": "ledger-lines",
+    "labels": [
+      "SOV and pay application",
+      "Changes and stored materials",
+      "Waiver chain and COI"
+    ],
+    "motion": "Evidence rows register in order; empty review boxes stay empty until a user selects them.",
+    "cta": "Explore the checklist",
+    "sections": "Indexed checklist \u2192 requirements by source / chalk \u2192 version note",
+    "number": 20,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/checklist-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "about",
+    "route": "/about",
+    "title": "A considered place to start.",
+    "copy": "DrawPacket is exploring a narrower, reviewable construction draw workflow.",
+    "kind": "architecture",
+    "surface": "chalk",
+    "texture": "horizon",
+    "labels": [
+      "One project",
+      "One cycle",
+      "Measured incremental value"
+    ],
+    "motion": "Architectural Cadence light edges reveal once behind the static mission. No invented team portraits.",
+    "cta": "Read the approach",
+    "sections": "Architectural hero \u2192 mission / chalk \u2192 expansion hypotheses / lilac",
+    "number": 21,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/about-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "chalk-architecture.webp",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "contact",
+    "route": "/contact",
+    "title": "Start with a useful conversation.",
+    "copy": "Tell us which part of the draw review needs a closer look.",
+    "kind": "message",
+    "surface": "mist",
+    "texture": "offset-rails",
+    "labels": [
+      "Your role",
+      "Your question",
+      "Purpose-limited contact"
+    ],
+    "motion": "Three lines assemble into an inquiry preview. No submission animation before backend acceptance.",
+    "cta": "Contact DrawPacket",
+    "sections": "Inquiry preview \u2192 form / chalk \u2192 privacy route",
+    "number": 22,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/contact-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "signin",
+    "route": "/sign-in",
+    "title": "Enter the synthetic workspace.",
+    "copy": "Demo access only. No real account or password required.",
+    "kind": "entry",
+    "surface": "oxblood",
+    "texture": "cadence-cuts",
+    "labels": [
+      "Synthetic workspace",
+      "Resettable scenario",
+      "No real records"
+    ],
+    "motion": "A bounded panel opens to the demo entry, without a fake authentication success.",
+    "cta": "Enter demo",
+    "sections": "Entry threshold \u2192 access explanation \u2192 help route",
+    "number": 23,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/signin-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "privacy",
+    "route": "/legal/privacy",
+    "title": "A clear purpose for every field.",
+    "copy": "Draft notice structure. Controller, retention and processors require launch review.",
+    "kind": "data-lifecycle",
+    "surface": "chalk",
+    "texture": "source-grid",
+    "labels": [
+      "Collect with consent",
+      "Use for the request",
+      "Provide deletion route"
+    ],
+    "motion": "A minimal three-stage lifecycle line draws once; legal text remains static.",
+    "cta": "Read privacy structure",
+    "sections": "Quiet lifecycle \u2192 readable legal content \u2192 deletion contact",
+    "number": 24,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/privacy-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "terms",
+    "route": "/legal/terms",
+    "title": "Clear scope. Clear responsibilities.",
+    "copy": "Draft concept terms for a synthetic preview and supervised research.",
+    "kind": "terms",
+    "surface": "sand",
+    "texture": "index-marks",
+    "labels": [
+      "Concept preview",
+      "Human responsibility",
+      "No external execution"
+    ],
+    "motion": "Three scope rules register with an understated line reveal.",
+    "cta": "Read terms structure",
+    "sections": "Scope register \u2192 legal reading column \u2192 contact",
+    "number": 25,
+    "duration": 2800,
+    "heroAsset": "assets/illustrations/terms-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 2800,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "accessibility",
+    "route": "/accessibility",
+    "title": "A readable path for everyone.",
+    "copy": "Keyboard, touch and reduced-motion experiences share the same content.",
+    "kind": "access",
+    "surface": "sage",
+    "texture": "horizon",
+    "labels": [
+      "Visible focus",
+      "Native scroll",
+      "Reduced motion"
+    ],
+    "motion": "A focus ring advances once through three controls; motion can be disabled immediately.",
+    "cta": "Inspect accessibility",
+    "sections": "Focus sequence \u2192 interaction controls \u2192 reporting route",
+    "number": 26,
+    "duration": 3200,
+    "heroAsset": "assets/illustrations/accessibility-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3200,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  },
+  {
+    "id": "404",
+    "route": "404",
+    "title": "This path needs another look.",
+    "copy": "Return to the overview, explore the offers or open the demo.",
+    "kind": "recovery",
+    "surface": "lilac",
+    "texture": "offset-rails",
+    "labels": [
+      "Page unavailable",
+      "Home",
+      "Synthetic demo"
+    ],
+    "motion": "A path stops, then three labeled recovery choices appear; no endless search loop.",
+    "cta": "Back to overview",
+    "sections": "Stopped route \u2192 recovery links \u2192 useful footer",
+    "number": 27,
+    "duration": 3600,
+    "heroAsset": "assets/illustrations/404-hero.svg",
+    "fallback": "Complete still composition; narrow screens use stacked source/state rows. No pinned hero on mobile.",
+    "reverse": "One-time entry remains settled on reverse scroll; replay is user controlled.",
+    "video": "Vector-led sequence with replay/pause; no autoplay audio. Optional export later uses the same stages.",
+    "stages": [
+      {
+        "atMs": 0,
+        "action": "Show the page title and complete semantic text; reserve illustration dimensions."
+      },
+      {
+        "atMs": 180,
+        "action": "Reveal the base geometry or register."
+      },
+      {
+        "atMs": 700,
+        "action": "Introduce source rows or connected nodes in reading order."
+      },
+      {
+        "atMs": 1500,
+        "action": "Emphasize the exception, route boundary, or page-specific focal element."
+      },
+      {
+        "atMs": 3600,
+        "action": "Settle into the complete still; replay only on request."
+      }
+    ],
+    "imageDirection": "Vector texture only; avoid adding an unrelated photo.",
+    "sectionRule": "Each section has one dominant visual: register, source card, network, process, figure, or quiet copy. Do not stack competing patterns."
+  }
+]

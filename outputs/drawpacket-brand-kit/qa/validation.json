@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-15",
+  "scope": "Brand kit prototype; not production certification",
+  "staticChecks": {
+    "svgXMLFiles": 146,
+    "localHtmlReferences": 91,
+    "heroRoutes": 27,
+    "logoRasterEmbeds": 0,
+    "outlinedLogoTextDependencies": 0,
+    "syntheticArithmetic": "passed",
+    "errors": []
+  },
+  "contrast": [
+    {
+      "foreground": "ink",
+      "background": "chalk",
+      "ratio": 14.4,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "oxblood",
+      "background": "chalk",
+      "ratio": 9.96,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "ink",
+      "background": "lilac",
+      "ratio": 11.57,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "chalk",
+      "background": "wine",
+      "ratio": 14.45,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "hold",
+      "background": "holdSurface",
+      "ratio": 5.25,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "muted",
+      "background": "chalk",
+      "ratio": 5.53,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "error",
+      "background": "paper",
+      "ratio": 6.74,
+      "AA_normal_text": true
+    },
+    {
+      "foreground": "success",
+      "background": "paper",
+      "ratio": 7.54,
+      "AA_normal_text": true
+    }
+  ],
+  "browserChecks": {
+    "desktopViewport": "1440x900",
+    "all27HeroSelections": "passed",
+    "SVGTextHorizontalOverflow": "none observed in 27 desktop heroes",
+    "pauseToggle": "passed",
+    "reducedMotionCSS": "animationName none observed",
+    "mapGeometry": "51 paths rendered",
+    "disclosureState": "passed",
+    "dialogEscapeAndFocusReturn": "passed",
+    "iconSearch": "passed",
+    "consoleErrorsAtInitialDesktopLoad": [],
+    "mobileViewport": "390x844",
+    "all27MobileHeroSelections": "passed",
+    "mobileDocumentHorizontalOverflow": "none observed across all 27 selections",
+    "mobileSemanticEvidence": "requested, supported, variance, missing waiver and expiry preserved",
+    "reducedMotionScroll": "computed scroll-behavior auto verified",
+    "finalConsoleErrors": []
+  },
+  "remaining": [
+    "Production website implementation and route-specific choreography",
+    "Real form backend, consent handling, and analytics",
+    "Cross-browser, assistive-technology, and low-end-device testing",
+    "Trademark/domain and counsel review",
+    "No MP4 export; CSS/SVG motion only"
+  ]
+}

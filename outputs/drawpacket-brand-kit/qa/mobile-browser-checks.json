@@ -1,0 +1,164 @@
+[
+  {
+    "page": "home",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "returns",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "offers",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "pay-app",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "changes",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "waivers",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "compliance",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "packet",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "workflow",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "uses",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "demo",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "pilot",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "request-pilot",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "request-demo",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "controls",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "fit",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "validation",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "resources",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "waiver-guide",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "checklist",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "about",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "contact",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "signin",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "privacy",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "terms",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "accessibility",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "404",
+    "rowsVisible": true,
+    "scrollWidth": 390,
+    "width": 390
+  }
+]

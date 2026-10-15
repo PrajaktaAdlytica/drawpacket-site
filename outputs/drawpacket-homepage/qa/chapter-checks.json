@@ -1,0 +1,62 @@
+[
+  {
+    "height": 900,
+    "id": "opening",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 901,
+    "id": "evidence",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "variance",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "offerings",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "workflow",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "demo",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "controls",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 914,
+    "id": "pilot",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "questions",
+    "overflow": false,
+    "top": 0
+  },
+  {
+    "height": 900,
+    "id": "close",
+    "overflow": false,
+    "top": 0
+  }
+]

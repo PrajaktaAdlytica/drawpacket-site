@@ -1,0 +1,3 @@
+import React from 'react';
+import {Surface,C,mono,move,useScene} from './shared';
+export function Datum(){const {f,fps,mobile}=useScene();return <Surface><div style={{position:'absolute',left:'10%',right:'10%',top:'49%',height:2,background:C.chalk,scale:`${move(f,0,.7*fps)} 1`,transformOrigin:'left'}}/><div style={{position:'absolute',top:'54%',left:'10%',right:'10%',textAlign:'center',...mono,fontSize:mobile?26:27,opacity:move(f,.2*fps,.65*fps)}}>ONE PROJECT. ONE MONTHLY CYCLE.</div><div style={{position:'absolute',left:'10%',top:'14%',...mono,fontSize:22,opacity:move(f,0,.6*fps)}}>DRAWPACKET / THE REVIEW APERTURE</div></Surface>}

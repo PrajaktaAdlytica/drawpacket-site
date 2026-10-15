@@ -1,0 +1,12 @@
+.DS_Store
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+work/
+**/node_modules/
+**/dist/
+**/.vite/
+**/.cache/
+outputs/*.zip

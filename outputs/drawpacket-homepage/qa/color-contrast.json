@@ -1,0 +1,27 @@
+[
+  {
+    "foreground": "ink",
+    "background": "chalk",
+    "contrast": 14.4
+  },
+  {
+    "foreground": "muted",
+    "background": "chalk",
+    "contrast": 5.75
+  },
+  {
+    "foreground": "oxblood",
+    "background": "chalk",
+    "contrast": 9.96
+  },
+  {
+    "foreground": "chalk",
+    "background": "wine",
+    "contrast": 14.45
+  },
+  {
+    "foreground": "hold",
+    "background": "hold_bg",
+    "contrast": 4.59
+  }
+]
