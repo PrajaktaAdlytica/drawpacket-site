@@ -22,3 +22,5 @@ The user approved the homepage visual/motion system and requested every remainin
 ## Approved opening film
 
 The user selected option 3, The Review Aperture, from outputs/drawpacket-intro-direction. The homepage now opens with a seven-second oxblood/chalk typographic shutter film above the original hero. Preserve native scrolling, skip/pause/replay, a static reduced-motion poster and pending human review. Author film changes in video/ and render desktop and portrait versions into public/media. Use the original Cadence SVG and website fonts, not generated storyboard lettering. The hero entrance begins when it enters the viewport. Remotion rendering on this Mac uses --chrome-mode=chrome-for-testing; the bundled headless-shell failed to start.
+
+The opening film must occupy the full viewport without the website navigation. When normal playback completes, advance smoothly to the hero and reveal the navigation there. Skip remains available inside the film, and reduced-motion mode keeps the still preview with a manual Enter the month action.

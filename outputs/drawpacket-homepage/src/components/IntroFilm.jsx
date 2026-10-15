@@ -3,7 +3,7 @@ import {Icon} from './UI';
 import './intro-film.css';
 
 /** The intro is a normal document chapter, never a gate to the homepage. */
-export default function IntroFilm({reduced, onContinue}) {
+export default function IntroFilm({reduced, onContinue, onVisibilityChange}) {
   const section=useRef(null), video=useRef(null), manuallyPaused=useRef(false), finished=useRef(false);
   const [format,setFormat]=useState(null), [systemReduced,setSystemReduced]=useState(false);
   const [playing,setPlaying]=useState(false), [ended,setEnded]=useState(false), [light,setLight]=useState(false), [error,setError]=useState(false);
@@ -20,10 +20,9 @@ export default function IntroFilm({reduced, onContinue}) {
     observer.observe(section.current); return()=>observer.disconnect();
   },[]);
   useEffect(()=>{
-    const site=section.current.closest('.site');
-    site?.classList.toggle('intro-visible',inView);
-    return()=>site?.classList.remove('intro-visible');
-  },[inView]);
+    onVisibilityChange?.(inView);
+    return()=>onVisibilityChange?.(false);
+  },[inView,onVisibilityChange]);
   useEffect(()=>{
     finished.current=false;manuallyPaused.current=false;
     setPlaying(false);setEnded(false);setProgress(0);setLight(false);setError(false);
@@ -50,6 +49,14 @@ export default function IntroFilm({reduced, onContinue}) {
     manuallyPaused.current=true;video.current?.pause();onContinue(e,'opening');
     document.getElementById('hero-title')?.focus({preventScroll:true});
   }
+  function finishIntro(){
+    if(finished.current)return;
+    finished.current=true;setEnded(true);setPlaying(false);setProgress(1);setLight(true);
+    requestAnimationFrame(()=>{
+      onContinue(null,'opening');
+      document.getElementById('hero-title')?.focus({preventScroll:true});
+    });
+  }
   const label=error?'Retry intro':ended?'Replay intro':playing?'Pause intro':'Play intro';
   return <section ref={section} id="intro" className={`intro-film ${light&&!staticMode?'intro-film--light':''}`} aria-label="DrawPacket opening film">
     <div className="intro-film__eyebrow"><span>DrawPacket / The review aperture</span><span>Concept preview</span></div>
@@ -58,7 +65,7 @@ export default function IntroFilm({reduced, onContinue}) {
       <video ref={video} key={format} className="intro-film__video" src={`/media/drawpacket-intro-${format}.mp4`} poster={`/media/drawpacket-intro-poster-${format}.jpg`} muted playsInline preload="metadata" aria-label="The Review Aperture — seven-second silent introduction" aria-describedby="intro-description"
         onPlay={()=>{setPlaying(true);setError(false);}} onPause={()=>setPlaying(false)}
         onTimeUpdate={(e)=>{setProgress(e.currentTarget.currentTime/7);setLight(e.currentTarget.currentTime>6.55);}}
-        onEnded={()=>{finished.current=true;setEnded(true);setPlaying(false);setProgress(1);setLight(true);}}
+        onEnded={finishIntro}
         onError={()=>{setError(true);setPlaying(false);}}/>
       }
     </div>

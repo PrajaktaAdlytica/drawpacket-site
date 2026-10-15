@@ -95,3 +95,7 @@ Added the user-selected option 3 as a seven-second silent MP4 above the hero, wi
 ## 2026-10-15 — Release QA and GitHub handoff
 
 Updated Vite from 6.4.2 to 6.4.4 to clear the final high-severity build-tool advisory. `npm audit --omit=dev --audit-level=high` reports zero vulnerabilities. A clean production build prerenders the homepage and 26 additional routes. The five demo tests, four page/asset tests and four hosting tests all pass. Repository hygiene excludes dependencies, generated builds, caches, scratch files and duplicate ZIP archives; no environment files or tracked files over 50 MB were found. Added an explicit Vercel configuration for the nested application root and `dist/client` output.
+
+## 2026-10-15 — Fullscreen intro handoff
+
+Removed the fixed site navigation from the opening-film viewport and expanded the film from the remaining page height to a full `100svh`. During the intro the header is hidden, translated above the viewport and removed from pointer interaction. Natural seven-second completion now advances to `#opening`, settles the hero at the top, restores the header and focuses `#hero-title`. The explicit Skip intro action follows the same landing path and pauses the film. Browser verification at 775 × 804 recorded a film rectangle of 0–804 px, hidden header, completed video at 7.0 seconds, hero top at 1 px, zero horizontal overflow and no console warnings. The production build and all 13 tests pass.

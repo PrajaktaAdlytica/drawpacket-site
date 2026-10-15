@@ -108,6 +108,7 @@ export default function App() {
     lenis = useRef(null),
     [active, setActive] = useState(0),
     [reduced, setReduced] = useState(false),
+    [introVisible, setIntroVisible] = useState(true),
     [menu, setMenu] = useState(false),
     [selected, setSelected] = useState(0),
     [modal, setModal] = useState(null),
@@ -447,7 +448,7 @@ export default function App() {
     });
   }
   return (
-    <div ref={root} className={`site ${reduced ? "is-reduced" : ""}`}>
+    <div ref={root} className={`site ${reduced ? "is-reduced" : ""} ${introVisible ? "intro-visible" : ""}`}>
       <a
         className="skip-link"
         href="#offerings"
@@ -482,7 +483,7 @@ export default function App() {
         </button>
       </aside>
       <main>
-        <IntroFilm reduced={reduced} onContinue={go} />
+        <IntroFilm reduced={reduced} onContinue={go} onVisibilityChange={setIntroVisible} />
         <section
           className="chapter hero"
           id="opening"
