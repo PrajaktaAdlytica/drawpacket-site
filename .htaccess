@@ -1,0 +1,8 @@
+# DrawPacket static deployment for Hostinger Apache/LiteSpeed.
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^\.git(?:/|$) - [F,L]
+</IfModule>
