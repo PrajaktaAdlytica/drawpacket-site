@@ -573,12 +573,19 @@ p {
   background: var(--oxblood);
 }
 .funding-announcement {
-  max-width: 410px;
-  margin: 0 0 12px;
+  width: 100%;
+  max-width: 440px;
+  margin: 0 0 24px;
+  padding: 14px 18px;
+  border-left: 3px solid var(--oxblood);
+  background: #e3dfe9;
   color: var(--oxblood);
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.5;
 }
+.funding-announcement strong {display:block;font:10px/1.5 var(--mono);letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px;}
+.funding-announcement span {display:block;font-weight:600;}
+.funding-announcement small {display:block;font-size:12px;margin-top:3px;}
 .hero-footer {
   display: flex;
   align-items: center;

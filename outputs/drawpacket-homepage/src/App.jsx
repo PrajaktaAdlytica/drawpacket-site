@@ -491,6 +491,11 @@ export default function App() {
         >
           <div className="hero-layout">
             <div className="hero-copy">
+              <aside className="funding-announcement" aria-label="Funding announcement">
+                <strong>Funding announcement</strong>
+                <span>DrawPacket has secured venture capital funding.</span>
+                <small>Investor and amount to be announced.</small>
+              </aside>
               <Kicker>
                 Bridgepine Builders / BP-04
                 <br />
@@ -515,7 +520,6 @@ export default function App() {
                 <span />
                 One project. One monthly cycle.
               </p>
-              <p className="funding-announcement">DrawPacket has secured venture capital funding. Investor and amount to be announced.</p>
             </div>
             <Calendar onSource={openSource} />
           </div>
