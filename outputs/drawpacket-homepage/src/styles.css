@@ -572,6 +572,13 @@ p {
   height: 1px;
   background: var(--oxblood);
 }
+.funding-announcement {
+  max-width: 410px;
+  margin: 0 0 12px;
+  color: var(--oxblood);
+  font-size: 12px;
+  line-height: 1.5;
+}
 .hero-footer {
   display: flex;
   align-items: center;

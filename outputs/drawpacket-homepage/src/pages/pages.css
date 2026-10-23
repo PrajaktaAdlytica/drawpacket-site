@@ -24,6 +24,7 @@
 .social-status span {display:flex;align-items:center;gap:8px;font-size:12px;}
 .social-status img {width:16px;height:16px;filter:brightness(0) invert(1);}
 .social-status small {color:#d1c4c7;font-size:11px;}
+.company-address {font-style:normal;font-size:13px;line-height:1.6;color:#f3eeee;margin:0 0 30px;}
 .detail-site {--scene-bg:var(--chalk);background:var(--chalk);}
 .detail-site .story-scene {position:relative;background:var(--scene-bg);min-height:100svh;isolation:isolate;}
 .detail-hero {padding:128px var(--gutter) 36px;display:flex;flex-direction:column;justify-content:center;}

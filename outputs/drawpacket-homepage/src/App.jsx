@@ -515,6 +515,7 @@ export default function App() {
                 <span />
                 One project. One monthly cycle.
               </p>
+              <p className="funding-announcement">DrawPacket has secured venture capital funding. Investor and amount to be announced.</p>
             </div>
             <Calendar onSource={openSource} />
           </div>
